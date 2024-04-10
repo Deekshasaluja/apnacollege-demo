@@ -1,5 +1,4 @@
 # apnacollege-demo
 this is my first repo.
 <br>
-author:deeksha
-
+author:deeksha(DSU)
